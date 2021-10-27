@@ -7,7 +7,7 @@ package studentlist;
 
 /**
  *
- * @author Ronak
+ * @author Ronak Sheth
  */
 public class studentList {
     public static void main(String[] args){
